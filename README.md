@@ -6,4 +6,4 @@ Este repositório contém a resolução dos exercícios de treinamento para a av
 
 * **Lista 01**: Exercícios básicos de lógica, entrada e saída de dados.
 * **lista 02**: Estruturas condicionais e de repetição.
-* **lista 03** & **lista 04**: Manipulação de vetores e funções.
+* **lista 03 (recursividade)** & **lista 04 (vh)**: Manipulação de vetores e funções.
