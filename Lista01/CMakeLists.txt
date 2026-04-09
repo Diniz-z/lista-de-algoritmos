@@ -1,0 +1,15 @@
+cmake_minimum_required(VERSION 4.1)
+project(teste C)
+
+set(CMAKE_C_STANDARD 99)
+
+add_executable(ParouImpar ParouImpar.c)
+add_executable(IniciadoSistema_ex01 IniciadoSistema_ex01.c)
+add_executable(dobro_ex02 dobro_ex02.c)
+add_executable(soma_ex03 soma_ex03.c)
+add_executable(ola_ex04 ola_ex04.c)
+add_executable(media_ex05 media_ex05.c)
+add_executable(aprovado_ex06 aprovado_ex06.c)
+add_executable(quadrado_ex08 quadrado_ex08.c)
+add_executable(ex09 ex09.c)
+add_executable(ex10 ex10.c)
