@@ -13,7 +13,10 @@ int main() {
         if (vetor[i] == n1) {
             vetor[i] = 0;
         }
-        printf("%d\n", vetor[i]);
+    }
+    printf("Vetor resultante: ");
+    for (int i = 0; i < 10; i++) {
+        printf("%d ", vetor[i]);
     }
     return 0;
 }
