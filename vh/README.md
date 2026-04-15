@@ -6,7 +6,7 @@
 - [valor_n_ex03.c](valor_n_ex03.c) – Entrada e uso de valor N  
 - [valorX_ex06.c](valorX_ex06.c) – Operações com valor específico  
 - [contagem_ex05.c](contagem_ex05.c) – Contagem de elementos  
-- [alt_anterior_ex07.c](alt_anterior_ex07.c) – Alteração baseada em valor anterior  
+- [alt_anterior_ex07.c](alt_anterior_ex07.c) – Alteração no exercício anterior 
 - [crescente_ex08.c](crescente_ex08.c) – Ordenação crescente  
 - [palíndromo_ex09.c](palíndromo_ex09.c) – Verificação de palíndromo  
 - [tamanho_ex12.c](tamanho_ex12.c) – Cálculo de tamanho de estrutura  
